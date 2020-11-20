@@ -2,8 +2,8 @@
 
 ### Hi there I'm cryptDecoder :lemon:
 
-[![Linkedin Badge](https://img.shields.io/badge/-kunalraghav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kunalraghav/)](https://www.linkedin.com/in/pruthvirajs2/)
-[![Gmail Badge](https://img.shields.io/badge/-kraghav123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kraghav123@gmail.com)](mailto:pruthvirajs2007@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-pruthviraj-sonawane-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pruthvirajs2/)](https://www.linkedin.com/in/pruthvirajs2/)
+[![Gmail Badge](https://img.shields.io/badge/-pruthvirajs2007@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pruthvirajs2007@gmail.com)](mailto:pruthvirajs2007@gmail.com)
   
 👨‍💻 DevOps Engineer 
 👨‍🎓 Working as DevOps Engineer 
