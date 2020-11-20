@@ -1,5 +1,5 @@
 ### Here is What I'm Working On! 👋
-
+![](https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... DevOps
@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am Good to Go....
 
-![](http://gph.is/1TFEOrA)
+
