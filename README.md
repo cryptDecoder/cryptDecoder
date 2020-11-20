@@ -2,13 +2,11 @@
 
 ### Hi there I'm cryptDecoder :lemon:
 
-[![lucafluri.ch](https://img.shields.io/static/v1?label=lucafluri.ch&message=%20&color=yellow&logo=&style=flat-square&logoColor=white)](https://www.lucafluri.ch/)
-[![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&color=orange&logo=Instagram&style=flat-square&logoColor=white)](https://www.instagram.com/lucafluri/)
-[![me@lucafluri.ch](https://img.shields.io/static/v1?label=me@lucafluri.ch&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:me@lucafluri.ch)
+[![Linkedin Badge](https://img.shields.io/badge/-kunalraghav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kunalraghav/)](https://www.linkedin.com/in/pruthvirajs2/)
+[![Gmail Badge](https://img.shields.io/badge/-kraghav123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kraghav123@gmail.com)](mailto:pruthvirajs2007@gmail.com)
   
-  
-👨‍💻 24 Years old Developer  
-👨‍🎓 Studying Computer Science here in Switzerland  
-🚧 **Current Project:** [Price Tracker](https://github.com/lucafluri/price_tracker)
+👨‍💻 DevOps Engineer 
+👨‍🎓 Working as DevOps Engineer 
+🚧 **Current Project:** [MuleSoft Anypoint Platform CI/CD](git@github.com:cryptDecoder/MuleSoft-Anyplatform-CLI-CICD.git)
 
-⭐️ From [lucafluri](https://github.com/lucafluri)
+⭐️ From [lucafluri](https://github.com/cryptDecoder/)
