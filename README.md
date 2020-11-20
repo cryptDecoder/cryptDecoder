@@ -1,5 +1,5 @@
 ### Here is What I'm Working On! 👋
-![](https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif)
+![](https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif =250x250)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... DevOps
