@@ -1,8 +1,6 @@
 ### Here is What I'm Working On! 👋
 Here are some ideas to get you started:
-<p align="center">
-  <img src=""https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="250" height="250"/>
-</p>
+![A cute kitten](http://placekitten.com/200/300?style=centerme)
 - 🔭 I’m currently working on ... DevOps
 - 🌱 I’m currently learning ... Ansible, Terraform, Jenkins, Azure DevOps, Powershell, Python, etc.  
 - 👯 I’m looking to collaborate on ... DevOps Automation
